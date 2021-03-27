@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "learn",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "华为云",
+            "password": "123456",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "114.116.5.49",
+            "username": "root"
+        }
+    ]
+}
